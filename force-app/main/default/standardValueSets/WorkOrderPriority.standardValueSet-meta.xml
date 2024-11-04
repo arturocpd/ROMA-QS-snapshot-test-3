@@ -2,23 +2,23 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Low</fullName>
+        <fullName>Bajo</fullName>
         <default>true</default>
-        <label>Low</label>
+        <label>Bajo</label>
     </standardValue>
     <standardValue>
-        <fullName>Medium</fullName>
+        <fullName>Mediano</fullName>
         <default>false</default>
-        <label>Medium</label>
+        <label>Mediano</label>
     </standardValue>
     <standardValue>
-        <fullName>High</fullName>
+        <fullName>Alto</fullName>
         <default>false</default>
-        <label>High</label>
+        <label>Alto</label>
     </standardValue>
     <standardValue>
-        <fullName>Critical</fullName>
+        <fullName>Crítico</fullName>
         <default>false</default>
-        <label>Critical</label>
+        <label>Crítico</label>
     </standardValue>
 </StandardValueSet>

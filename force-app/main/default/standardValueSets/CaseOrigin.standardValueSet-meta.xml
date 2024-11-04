@@ -4,12 +4,7 @@
     <standardValue>
         <fullName>Phone</fullName>
         <default>false</default>
-        <label>Phone</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Email</fullName>
-        <default>false</default>
-        <label>Email</label>
+        <label>Teléfono</label>
     </standardValue>
     <standardValue>
         <fullName>Web</fullName>

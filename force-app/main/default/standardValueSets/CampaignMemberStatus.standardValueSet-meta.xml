@@ -2,23 +2,13 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>true</sorted>
     <standardValue>
-        <fullName>Planned</fullName>
+        <fullName>Sent</fullName>
         <default>false</default>
-        <label>Planned</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Received</fullName>
-        <default>false</default>
-        <label>Received</label>
+        <label>Enviado</label>
     </standardValue>
     <standardValue>
         <fullName>Responded</fullName>
         <default>false</default>
-        <label>Responded</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Sent</fullName>
-        <default>false</default>
-        <label>Sent</label>
+        <label>Respondido</label>
     </standardValue>
 </StandardValueSet>
