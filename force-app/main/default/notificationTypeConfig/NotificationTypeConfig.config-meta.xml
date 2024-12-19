@@ -15,18 +15,6 @@
         <notificationType>amount_updated</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -41,18 +29,6 @@
         <notificationType>bulk_action_plan_save</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -60,18 +36,6 @@
         <notificationType>chatter_comment_on_post</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -79,18 +43,6 @@
         <notificationType>chatter_group_mention</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -175,18 +127,6 @@
         <notificationType>followup_process_notification</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -194,18 +134,6 @@
         <notificationType>group_announce</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -225,6 +153,41 @@
             <mobileEnabled>false</mobileEnabled>
         </notificationChannels>
         <notificationType>high_priority_case</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+        </notificationChannels>
+        <notificationType>learning_item_completion</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+        </notificationChannels>
+        <notificationType>learning_item_due</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+        </notificationChannels>
+        <notificationType>learning_item_milestone_due</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+        </notificationChannels>
+        <notificationType>learning_item_not_started</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+        </notificationChannels>
+        <notificationType>learning_item_start</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
         <notificationChannels>
@@ -255,18 +218,6 @@
         <notificationType>optimizer_scan_results</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -274,18 +225,6 @@
         <notificationType>personal_analytic</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -308,6 +247,13 @@
     </notificationTypeSettings>
     <notificationTypeSettings>
         <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>false</mobileEnabled>
+        </notificationChannels>
+        <notificationType>security_center_alert</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <notificationChannels>
             <desktopEnabled>false</desktopEnabled>
             <mobileEnabled>false</mobileEnabled>
         </notificationChannels>
@@ -321,18 +267,6 @@
         <notificationType>stage_updated</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -340,18 +274,6 @@
         <notificationType>stream_post</notificationType>
     </notificationTypeSettings>
     <notificationTypeSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_Android</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Chatter_for_iOS</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
-        <appSettings>
-            <connectedAppName>sf_chttr_apps__Salesforce1_for_Windows</connectedAppName>
-            <enabled>true</enabled>
-        </appSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>true</mobileEnabled>
@@ -382,8 +304,15 @@
     <notificationTypeSettings>
         <notificationChannels>
             <desktopEnabled>true</desktopEnabled>
+            <mobileEnabled>true</mobileEnabled>
+        </notificationChannels>
+        <notificationType>wave_condition</notificationType>
+    </notificationTypeSettings>
+    <notificationTypeSettings>
+        <notificationChannels>
+            <desktopEnabled>true</desktopEnabled>
             <mobileEnabled>false</mobileEnabled>
         </notificationChannels>
-        <notificationType>ya_contract_renewal_notify</notificationType>
+        <notificationType>enablement_coaching_feedback_ready</notificationType>
     </notificationTypeSettings>
 </NotificationTypeConfig>

@@ -4,7 +4,7 @@
         <fullName>ChangePriorityToHigh</fullName>
         <field>Priority</field>
         <literalValue>High</literalValue>
-        <name>Cambia la prioridad del caso a alta.</name>
+        <name>Changes the case priority to high.</name>
         <notifyAssignee>false</notifyAssignee>
         <operation>Literal</operation>
         <protected>false</protected>

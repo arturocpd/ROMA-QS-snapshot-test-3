@@ -9,6 +9,7 @@
     <enableHideOpenInQuip>false</enableHideOpenInQuip>
     <enableIE11DeprecationMsgHidden>false</enableIE11DeprecationMsgHidden>
     <enableIE11LEXCrucPref>false</enableIE11LEXCrucPref>
+    <enableInAppLearning>true</enableInAppLearning>
     <enableInAppTooltips>true</enableInAppTooltips>
     <enableLEXExtensionComponentCustomization>false</enableLEXExtensionComponentCustomization>
     <enableLEXExtensionDarkMode>false</enableLEXExtensionDarkMode>
@@ -19,6 +20,7 @@
     <enableLEXExtensionTrailhead>false</enableLEXExtensionTrailhead>
     <enableLEXOnIpadEnabled>false</enableLEXOnIpadEnabled>
     <enableLexEndUsersNoSwitching>false</enableLexEndUsersNoSwitching>
+    <enableLightningPreviewPref>false</enableLightningPreviewPref>
     <enableNavPersonalizationOptOut>false</enableNavPersonalizationOptOut>
     <enableNoBackgroundNavigations>false</enableNoBackgroundNavigations>
     <enableQuip>false</enableQuip>
